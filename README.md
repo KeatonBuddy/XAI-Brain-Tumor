@@ -45,7 +45,7 @@ data/
 
 ## Repository Structure
 ```
-`├── data/
+├── data/
 │ ├── Training/
 │ └── Testing/
 ├── efficientNet_v7.ipynb # Keras / TensorFlow workflow
